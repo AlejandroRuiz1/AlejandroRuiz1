@@ -1,0 +1,10 @@
+- 👋 - Hi, I’m @AlejandroRuiz1 (Alejandro Ruiz)! I'm a Fifth year Software Engineering student currently studying in the University of Puerto Rico: Mayagüez Campus.
+- 👀 -  I’m interested in learning Front-End as well as Back-End development so that I can build Responsive Websites as well as custom Back End solutions for projects and businesses.
+- 🌱 - I’m currently learning HTML, CSS, and JavaScript.
+- My personal hobbies include 🏄🏽‍♂️ surfing (in my local beach breaks), 🌿 plant keeping, 🤿 snorkeling, and 🥾 hiking. 
+- 📫 - How to reach me: alejandro.ruiz2@upr.edu
+
+<!---
+AlejandroRuiz1/AlejandroRuiz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
